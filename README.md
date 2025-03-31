@@ -98,6 +98,7 @@
 └── imagesearchvid.mp4           # Demo video
 
 ---
+```
 
 ## 🚀 How to Download & Run the Quiz  
 
