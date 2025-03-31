@@ -128,8 +128,6 @@ code .
 
 ---
 
----
-
 ## 🌟 Unique Features  
 
 ✅ **🎤 Voice Search** - Speak instead of type with speech recognition  
