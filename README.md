@@ -126,4 +126,3 @@ code .
 ├── README.md                    # Documentation
 └── imagesearchvid.mp4           # Demo video
 
----
