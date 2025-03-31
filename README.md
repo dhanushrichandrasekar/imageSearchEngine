@@ -76,6 +76,7 @@
 - **💾 Local Storage** - Saves theme preferences  
 
 ---
+
 ## 🚀 How to Download & Run the Quiz  
 
 ### 📥 1. Cloning the Repository  
@@ -157,3 +158,4 @@ Developed with ❤️ by **Dhanushri C**
 ---
 
 🎉 **Happy Searching!** 📸✨🚀  
+
