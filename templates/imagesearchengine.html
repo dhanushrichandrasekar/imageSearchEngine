@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMAGE SEARCH ENGINE</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="../static/images/icon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel ="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+</head>
+<body>
+    <div id="particles-js"></div>
+    
+    <div id="notificationBar" class="notification-bar">
+        <span id="notificationMessage"></span>
+        <button id="closeNotification" class="close-btn">&times;</button>
+    </div>
+    
+    <div class="theme-toggle" id="theme-toggle" title="Toggle Dark Mode">
+        <i class="fas fa-moon"></i>
+    </div>
+
+    <section class="hero">
+        <h1>Discover Stunning Imagery</h1>
+        <p class="tagline">Search millions of high-quality photos from Unsplash</p>
+        
+        <div class="search-container">
+            <form action="#" id="search-form">
+                <button type="button" id="voice-btn" class="search-btn" title="Voice Search">
+                    <i class="fas fa-microphone"></i>
+                </button>
+                <div class="search-input-container">
+                    <input type="text" id="search-box" placeholder="Search for photos...">
+                </div>
+                <button type="submit" class="search-btn">
+                    <i class="fas fa-search"></i>
+                </button>
+            </form>
+        </div>
+
+        <div class="suggestions-container">
+            <div id="suggestions-dropdown" class="suggestions-dropdown"></div>
+        </div>
+
+        <div class="search-tags">
+            <span>Trending:</span>
+            <a href="#" onclick="searchCategory('nature')">Nature</a>
+            <a href="#" onclick="searchCategory('wallpaper')">Wallpapers</a>
+            <a href="#" onclick="searchCategory('travel')">Travel</a>
+            <a href="#" onclick="searchCategory('food')">Food</a>
+        </div>
+    </section>
+
+    <div class="loading" id="loading">
+        <i class="fas fa-spinner"></i>
+    </div>
+
+    <div id="search-result"></div>
+
+    <button id="show-more-btn">Show More</button>
+
+    <div class="fab-container">
+        <button class="fab" id="scroll-top" title="Back to Top">
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        <button class="fab" id="toggle-view" title="Grid/List View">
+            <i class="fas fa-th"></i>
+        </button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
