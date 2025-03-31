@@ -81,7 +81,7 @@
 ### 📥 1. Cloning the Repository  
 ```bash
 # Clone the repository from GitHub
-git clone https://github.com/yourusername/image-search.git
+git clone https://github.com/dhanushrichandrasekar/image-search.git
 ```
 
 ---
