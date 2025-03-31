@@ -81,7 +81,7 @@
 ### 📥 1. Cloning the Repository  
 ```bash
 # Clone the repository from GitHub
-git clone https://github.com/dhanushrichandrasekar/image-search.git
+git clone https://github.com/dhanushrichandrasekar/imageSearchEngine.git
 ```
 
 ---
@@ -89,7 +89,7 @@ git clone https://github.com/dhanushrichandrasekar/image-search.git
 ### 📂 2. Navigating into the Project Folder  
 ```bash
 # Move into the downloaded project folder
-cd image-search
+cd imageSearchEngine
 ```
 
 ---
@@ -108,7 +108,7 @@ code .
 ## 📂 Project Structure
 
 ```
-/imagesearchengine
+/imageSearchEngine
 ├── templates/
 │   ├── imagesearchengine.html   # Main application file
 │   ├── styles.css               # All styling
