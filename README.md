@@ -157,5 +157,4 @@ Developed with ❤️ by **Dhanushri C**
 
 ---
 
-🎉 **Happy Searching!** 📸✨🚀  
-
+🎉 **Happy Searching!** 📸✨🚀
