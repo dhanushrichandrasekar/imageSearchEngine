@@ -127,26 +127,33 @@ code .
 
 ---
 
-## 🌟 Unique Features
+---
 
-🎤 **Voice Search** - Speak instead of type with speech recognition  
-🔮 **Smart Suggestions** - Get predictions instantly  
-🌗 **Dark/Light Mode** - Customize your interface  
-🌌 **Interactive Background** - Engaging animations with Particles.js  
+## 🌟 Unique Features  
+
+✅ **🎤 Voice Search** - Speak instead of type with speech recognition  
+✅ **🔮 Smart Suggestions** - Get instant predictions while typing  
+✅ **🌙 Dark/Light Mode** - Customize your interface effortlessly  
+✅ **🌌 Interactive Background** - Engaging animations with Particles.js  
+✅ **📷 High-Quality Images** - Powered by Unsplash API  
+✅ **🎮 Smooth Animations** - Enhancing user experience  
+✅ **🔁 Infinite Scrolling** - Load more images dynamically  
 
 ---
 
-## 📜 License  
-This project is *open-source* and free to use for learning and development. 🚀  
+## 💎 License  
+
+This project is **open-source** and free to use for learning and development. 🚀  
+Feel free to fork, modify, and contribute!  
 
 ---
 
 ## 👨‍💻 Author  
-Developed with by Dhanushri C  
-📧 Contact: dhanushri1702@gmail.com  
-📌 GitHub: https://github.com/dhanushrichandrasekar
+
+Developed with ❤️ by **Dhanushri C**  
+📧 Email: dhanushri1702@gmail.com  
+📌 GitHub: [Dhanushri Chandrasekar](https://github.com/dhanushrichandrasekar)  
 
 ---
 
-🎉 **Happy Searching!** 📸✨🚀
-
+🎉 **Happy Searching!** 📸✨🚀  
