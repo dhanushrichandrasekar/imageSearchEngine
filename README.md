@@ -77,6 +77,28 @@
 
 ---
 
+## 📂 Project Structure
+
+```
+/imageSearchEngine
+├── templates/
+│   ├── imagesearchengine.html   # Main application file
+│   ├── styles.css               # All styling
+│   ├── script.js                # Core functionality
+├── images/                      # Images and icons
+│   ├── logo.png
+├── screenshots/                 # Screenshots of image search engine
+│   ├── ss1.png
+│   ├── ss2.png
+│   ├── ss3.png
+│   ├── ss4.png
+│   ├── ss5.png
+│   ├── ss6.png
+├── README.md                    # Documentation
+└── imagesearchvid.mp4           # Demo video
+
+---
+
 ## 🚀 How to Download & Run the Quiz  
 
 ### 📥 1. Cloning the Repository  
