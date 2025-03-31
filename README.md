@@ -149,7 +149,7 @@ Feel free to fork, modify, and contribute!
 
 ## 👨‍💻 Author  
 
-Developed with ❤️ by **Dhanushri C**  
+Developed by **Dhanushri C**  
 📧 Email: dhanushri1702@gmail.com  
 📌 GitHub: [Dhanushri Chandrasekar](https://github.com/dhanushrichandrasekar)  
 
