@@ -18,6 +18,12 @@
 
 ---
 
+## 🎥 Video Demo
+
+📽️ https://github.com/dhanushrichandrasekar/imageSearchEngine/blob/ffc7cb3b10c42f0feed74aaabb796561378bcd99/searchEngineDemo.mp4
+
+---
+
 ## 📸 Screenshots
 
 ### 🏠 **Sleek Search Interface**
@@ -32,12 +38,6 @@
 
 ### 🔍 **Crystal Clear Search Results**
 ![Results](https://github.com/dhanushrichandrasekar/imageSearchEngine/blob/ffc7cb3b10c42f0feed74aaabb796561378bcd99/screenshots/ss3.png)
-
----
-
-## 🎥 Video Demo
-
-📽️ https://github.com/dhanushrichandrasekar/imageSearchEngine/blob/ffc7cb3b10c42f0feed74aaabb796561378bcd99/searchEngineDemo.mp4
 
 ---
 
