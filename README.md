@@ -18,9 +18,8 @@
 
 ---
 
-## 🎥 Video Demo
-
-📽️ https://github.com/dhanushrichandrasekar/imageSearchEngine/blob/ffc7cb3b10c42f0feed74aaabb796561378bcd99/searchEngineDemo.mp4
+## 🎥 Demo
+🎬 **[Watch the Website Demo](https://github.com/dhanushrichandrasekar/imageSearchEngine/blob/ffc7cb3b10c42f0feed74aaabb796561378bcd99/searchEngineDemo.mp4)**
 
 ---
 
