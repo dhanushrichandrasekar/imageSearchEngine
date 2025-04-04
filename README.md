@@ -152,6 +152,7 @@ Feel free to fork, modify, and contribute!
 Developed by **Dhanushri C**  
 📧 Email: dhanushri1702@gmail.com  
 📌 GitHub: [Dhanushri Chandrasekar](https://github.com/dhanushrichandrasekar)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/dhanushri17
 
 ---
 
